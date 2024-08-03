@@ -1,6 +1,7 @@
 # Task-05: Traffic Accident Data Analysis
 
-![alt text](Task5.png>)
+![image](https://github.com/user-attachments/assets/bd1bcd69-bdda-4947-ab13-0e11c88e2dc8)
+
 
 ## Objective
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
